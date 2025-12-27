@@ -94,24 +94,6 @@ I'm Amen, a multifaceted developer passionate about creating innovative, user-ce
 
 ---
 
-### My GitHub Stats
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Amen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amenallahbarkaouidev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-</p> <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amenallahbarkaouidev&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amenallahbarkaouidev&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### Let's Collaborate!
 
 I'm always open to interesting projects and collaborations. Whether it's developing a new app, designing a user interface, building a robust backend, or discussing the latest trends in AI and security, feel free to reach out!
